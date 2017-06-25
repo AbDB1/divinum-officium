@@ -18,36 +18,36 @@ v. Frères : Vous n'êtes plus des étrangers ni des hôtes de passage; vous êt
 $Nous rendons grâces à Dieu.
 
 [Hymnus Vespera]
-{:H-Exsultetorbisgaudiis:}v. Exsúltet orbis gáudiis:
-Cælum resúltet láudibus:
-Apostolórum glóriam
-Tellus et astra cóncinunt.
+{:H-Exsultetorbisgaudiis:}v. Que l'univers exalte de joie:
+Que le Ciel retentisse de louanges:
+La terre et les astres chantent
+La gloire des apôtres.
 _
-Vos sæculórum júdices,
-Et vera mundi lúmina:
-Votis precámur córdium,
-Audíte voces súpplicum.
+O vous juges des siècles,
+Et vraie lulière du monde:
+Nous vous prions de tout coeur,
+Entendez nos voix suppliantes.
 _
-Qui templa cæli cláuditis,
-Serásque verbo sólvitis,
-Nos a reátu nóxios
-Solvi jubéte, quǽsumus.
+Vous qui fermez les temples du Ciel,
+Et par votre parole ouvrez leurs serrures,
+Délivrez nous s'il vous plait
+Du poids de nos fautes.
 _
-Præcépta quorum prótinus
-Languor salúsque séntiunt:
-Sanáte mentes lánguidas:
-Augéte nos virtútibus.
+La maladie et la santé
+Répondent aussitôt à vos ordres:
+Guérissez nos âmes malades,
+Faites nous croître en vertus.
 _
-Ut, cum redíbit árbiter
-In fine Christus sǽculi,
-Nos sempitérni gáudii
-Concédat esse cómpotes.
+Ainsi, lorsque le Christ reviendra nous juger
+A la fin du monde,
+Il nous fera posséder
+La Joie éternelle.
 _
-* Patri, simúlque Fílio,
-Tibíque Sancte Spíritus,
-Sicut fuit, sit júgiter
-Sæclum per omne glória.
-Amen.
+* Gloire au Père, ainsi qu'au Fils,
+Et à  Vous, Esprit-Saint,
+Comme autrefois et toujours
+Dans les siècles des siècles.
+Ainsi-soit-il.
 
 [HymnusM Vespera]
 {:H-Exsultetorbisgaudiis:}v. Exsúltet cælum láudibus,
@@ -82,73 +82,73 @@ et prósequi cæléstia.
 Amen.
 
 [Versum 1]
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
+V. Par toute la terre a retenti leur voix.
+R. Et jusqu'aux confins du monde, leurs paroles.
 
 [Ant 1]
-Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et ante reges et prǽsides ducémini propter me in testimónium illis, et Géntibus.
+On vous traduira * devant les tribunaux, et vous serez battus de verges dans leurs synagogues; vous comparaîtrez devant des rois et des gouverneurs, à cause de moi pour rendre témoignage devant eux et devant les Nations.
 
 [Invit]
-Regem Apostolórum Dóminum, * Veníte adorémus.
+Le Roi des Apôtres, le Seigneur, * Venez, adorons-le.
 
 [Hymnus Matutinum]
-{:H-AeternaChristi:}v. Ætérna Christi múnera,
-Apostolórum glóriam,
-Palmas et hymnos débitos
-Lætis canámus méntibus.
+{:H-AeternaChristi:}v. Chantons avec des âmes joyeuses,
+Les hymnes accordées au triomphe,
+Et à la gloire des apôtres
+Chantons les bienfaits éternels du Christ.
 _
-Ecclesiárum Príncipes,
-Belli triumpháles duces,
-Cæléstis aulæ mílites,
-Et vera mundi lúmina.
+Ils sont les Princes des Eglises
+Les chefs victorieux de leurs batailles,
+Les soldats de la cour céleste,
+Et les vraies lumières du monde.
 _
-Devóta Sanctórum fides,
-Invícta spes credéntium,
-Perfécta Christi cáritas
-Mundi tyránnum cónterit.
+C'est la foi généreuse des saints,
+L'espérance invincible des croyants,
+La parfaite charité du Christ
+Qui brise la tyrannie du  monde.
 _
-In his Patérna glória,
-In his triúmphat Fílius,
-In his volúntas Spíritus,
-Cælum replétur gáudio.
+En eux la gloire du Père,
+En eux le triomphe du Fils,
+En eux l'Esprit qui est amour;
+Le Ciel est rempli de joie.
 _
-* Patri, simúlque Fílio,
-Tibíque Sancte Spíritus,
-Sicut fuit, sit júgiter
-Sæclum per omne glória.
-Amen.
+* Gloire au Père ainsi qu'au Fils,
+Et à vous, Esprit-Saint,
+Comme autrefois et toujours
+Dans les siècles des siècles.
+Ainsi-soit-il.
 
 [Ant Matutinum]
-In omnem terram * exívit sonus eórum, et in fines orbis terræ verba eórum.;;18
-Clamavérunt justi, * et Dóminus exaudívit eos.;;33
-Constítues eos * príncipes super omnem terram: mémores erunt nóminis tui, Dómine.;;44
-V. In omnem terram exívit sonus eórum.
-R. Et in fines orbis terræ verba eórum.
-Príncipes populórum * congregáti sunt cum Deo Ábraham.;;46
-Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
-Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
-V. Constítues eos príncipes super omnem terram.
-R. Mémores erunt nóminis tui, Dómine.
-Exaltabúntur * córnua justi. Allelúia.;;74
-Lux orta est * justo, allelúia, rectis corde lætítia. Allelúia.;;96
-Custodiébant * testimónia ejus, et præcépta ejus. Allelúia.;;98
-V. Nimis honoráti sunt amíci tui Deus.
-R. Nimis confortátus est principátus eórum.
+Par toute la terre * a retenti leur voix, et jusqu'aux confins du monde, leurs paroles.;;18
+Les justes ont crié, * et le Seigneur les a exaucés.;;33
+Vous les établirez * princes sur toute la terre: ils se souviendront de votre nom, Seigneur.;;44
+V. Par toute la terre a retenti leur voix.
+R. Et jusqu'aux confins de la terre, leurs paroles.
+Les Princes des peuples * se sont réunis avec le Dieu d'Ábraham.;;46
+Vous avez donné l'héritage * à ceux qui vous craignent, Seigneur.;;60
+Ils ont annoncé * les oeuvres de Dieu, et ils ont compris ce qu'Il a fait.;;63
+V. Vous les établirez princes sur toute la terre.
+R. Ils se souviendront de votre nom, Seigneur.
+Elles seront exaltées * les puissances du juste. Allelúia.;;74
+La lumière s'est levée * pour le juste, allelúia, la joie pour les coeurs droits. Allelúia.;;96
+Ils gardaient * ses témoignages, et ses commandements. Allelúia.;;98
+V. Vos amis, ô Dieu, sont grandement honorés.
+R. Leur principat est grandement affermi.
 
 [Lectio1]
-De Epístola prima beáti Pauli Apóstoli ad Corínthios
+De la première épître du bienheureux Apôtre Paul aux Corínthiens
 !1 Cor 4:1-5
-1 Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei.
-2 Hic jam quǽritur inter dispensatóres ut fidélis quis inveniátur.
-3 Mihi autem pro mínimo est ut a vobis júdicer, aut ab humáno die: sed neque meípsum júdico.
-4 Nihil enim mihi cónscius sum, sed non in hoc justificátus sum: qui autem júdicat me, Dóminus est.
-5 Ítaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.
+1 Que chaque homme nous considère comme les ministres du Christ, et les dispensateurs des mystères de Dieu.
+2 Or ce qu'il faut chercher dans les dispensateurs, c'est que chacun soit trouvé fidèle.
+3 Pour moi, il m'importe très peu d'être jugé par vous, ou par quelqu'homme que ce soit: et je ne me juge pas moi-même.
+4 Ma conscience, il est vrai ne me reproche rien, mais je ne suis pas pour cela justifié : or, celui qui me juge, c'est le Seigneur.
+5 C'est pourquoi ne jugez pas avant le temps, jusqu'à ce que vienne le Seigneur: qui éclairera ce qui est caché dans les ténèbres, et manifestera les pensées des coeurs: et alors, chacun recevra de Dieu sa louange.
 
 [Responsory1]
-R. Ecce ego mitto vos sicut oves in médio lupórum, dicit Dóminus:
-* Estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.
-V. Dum lucem habétis, crédite in lucem, ut fílii lucis sitis.
-R. Estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.
+R. Voici que je vous envoie comme des brebis au milieu des loups, dit le Seigneur:
+* Soyez donc prudents comme des serpents, et símples comme des colombes.
+V. Pendant que vous avez la lumière, croyez en la lumière, afin que vous soyez des fils de lumière.
+R. Soyez donc prudents comme des serpents, et símples comme des colombes.
 
 [Lectio2]
 !1 Cor 4:6-9
